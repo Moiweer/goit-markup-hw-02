@@ -1,0 +1,14 @@
+:root {
+  --main-text-color: #757575;
+  --title-text-color: #212121;
+  --accent-text-color: #2196f3;
+  --accent-hover-color:#188CE8
+  --white-text-color: #ffffff;
+  --button-grey-color: #f5f4fa;
+  --main-bg-color: #e5e5e5;
+  --secondary-bg-color: #f5f4fa;
+  --bg-grey-color: #2f303a;
+}
+body{background-color: var(--main-bg-color);
+color:var(--main-text-color) ;
+}
