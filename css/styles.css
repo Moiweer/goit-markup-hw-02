@@ -12,3 +12,9 @@
 body{background-color: var(--main-bg-color);
 color:var(--main-text-color) ;
 }
+/* section header */
+.logo-accent{color:var(--accent-text-color);}
+.logo-black-color{color:#000000;}
+.navigation-linc{color:var(--title-text-color);}
+.navigation-linc:hover{color:var(--accent-text-color);
+.navigation-linc:focus{color:var(--accent-text-color);}
