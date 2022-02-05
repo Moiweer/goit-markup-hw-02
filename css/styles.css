@@ -3,7 +3,7 @@
   --text-color: #757575;
   --accent-text-color: #2196f3;
   --accent-hover-color:#188CE8
-  --white-text-color: #ffffff;
+  --white-text-color: #fff;
   --button-grey-color: #f5f4fa;
   --main-bg-color: #e5e5e5;
   --secondary-bg-color: #f5f4fa;
@@ -30,5 +30,5 @@ letter-spacing: 0.03em;}
 .navigation-link{color:var(--main-text-color);}
 .contact-mail-link{color:var(-)}
 .navigation-link:hover{color:var(--accent-text-color);}
-.navigation-linc:focus{color:var(--accent-text-color);}
+.navigation-link:focus{color:var(--accent-text-color);}
 
